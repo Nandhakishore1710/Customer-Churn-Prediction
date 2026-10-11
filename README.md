@@ -116,3 +116,23 @@ Open `http://127.0.0.1:5000/` in your browser.
 **Nandhakishore1710**
 
 GitHub: [Nandhakishore1710](https://github.com/Nandhakishore1710)
+
+## Live Demo
+
+🚀 **Try the application:** [Customer Churn Prediction — Live Demo](https://customer-churn-prediction-lov9.onrender.com)
+
+## Technologies Used
+
+- Python
+- Flask
+- Pandas
+- NumPy
+- Scikit-learn
+- HTML
+
+## Features
+
+- Predicts whether a customer is likely to churn or stay.
+- Displays the predicted churn probability.
+- Uses a trained machine learning model.
+- Provides an interactive web interface for customer input.
